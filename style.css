@@ -1,0 +1,20 @@
+body{
+    background-color: lightsalmon;
+}
+
+.primeiraparte{
+    background-color: bisque;
+}
+.foto{
+    width: 505px;
+}
+.estudantes{
+    display:flex;
+}
+.fotos{
+    width: 500;
+}
+    .todososestudantes{
+        display: grid
+        grid-template-colums 20% 20% 20% 20% 20%;
+    }
